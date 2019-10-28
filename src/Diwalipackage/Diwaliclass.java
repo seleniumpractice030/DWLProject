@@ -29,5 +29,9 @@ public void m5()
 {
 System.out.println("Diwali5");	
 }
-
+@Test
+public void m6() 
+{
+System.out.println("Diwali6");	
+}
 }
